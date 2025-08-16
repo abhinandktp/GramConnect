@@ -1,16 +1,22 @@
 # gram_connect
 
-A new Flutter project.
+Connecting the Village
 
-## Getting Started
+## 1.Description
+**Gram-Connect** is a comprehensive platform designed to empower local communities and tourists. It combines a social space for discovering local places with practical tools for civic engagement. The app directly addresses pressing issues such as illegal garbage dumping, food wastage, and low awareness of historical and cultural sites by providing a one-stop solution for community-driven initiatives and information.
 
-This project is a starting point for a Flutter application.
+## 2.Features
+- Village Tour:  
+  A community-driven guide to historical and cultural places, complete with user ratings and reviews. Users can also post their own places.
 
-A few resources to get you started if this is your first Flutter project:
+- Food Management:  
+  Helps reduce food waste by allowing hotels and events to post surplus food. Users in need can then request it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Waste Management:  
+  An interactive map powered by OpenStreetMap that shows the location of public waste bins.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Complaint Management:  
+  Allows users to report illegal waste dumping and other societal issues with photo proof. Other users can like or dislike complaints to show support.
+
+- Local Services:  
+  A locator tool to find essential public services like post offices, village offices, panchayats, municipalities, corporations, and public toilets.
