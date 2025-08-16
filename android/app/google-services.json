@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953238240520",
+    "project_id": "gramconnect-tracex",
+    "storage_bucket": "gramconnect-tracex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953238240520:android:f40c58d7ceef59f3d900bd",
+        "android_client_info": {
+          "package_name": "com.example.gram_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64KibCyoyLHG09NbJLBQtCjTvLPfw6ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
