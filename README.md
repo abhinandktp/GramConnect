@@ -52,7 +52,7 @@ Gram - Connect is a comprehensive platform designed to empower local communities
 
 ---
 
-## 5. Usage Screenshots
+## 5. Usage Instructions
 
 ### Initial Pages & User Management
 This section shows the key screens for user onboarding, including splash, login, registration, and the app's main **home screen**. The home screen provides quick access to **Local Services** and a "Quick Actions" menu with options for **Food Management**, **Waste Management**, **Complaints**, and the **Village Tour**.
