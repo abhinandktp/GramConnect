@@ -55,24 +55,70 @@ Gram - Connect is a comprehensive platform designed to empower local communities
 ## 5. Usage Screenshots
 
 ### Initial Pages & User Management
+<div align="center">
 
-| **Splash Screen** | **Registration** | **Login** |
+| **Splash Screen** | **Login** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/d028d28c-40bf-4b3a-a60e-c1caa485edc8" alt="Splash Screen" width="200"> | <img src="https://github.com/user-attachments/assets/76243946-27f5-4b58-a055-7d2aad1e49a9" alt="Login Screen" width="200"> |
+
+| **Registration** | **Home Screen** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/eff1b907-a547-4f5a-bbe4-0b3b74d92d67" alt="Registration Page" width="200"> | <img src="https://github.com/user-attachments/assets/af58b449-6883-44a3-8e81-d76fc22c6822" alt="Home Screen" width="200"> |
+
+</div>
+
+### Local Services
+<div align="center">
+
+| **Post Office** | **Village Office** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/5af5d9f0-87f4-4336-8a48-5027b223b2fb" alt="Post Office Locator" width="200"> | <img src="https://github.com/user-attachments/assets/ea038786-8eba-40e0-b6ae-55e111c15265" alt="Village Office Locator" width="200"> |
+
+| **Municipality** | **Public Toilet** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/bc0c55d4-70ef-4df0-a3ac-0a702e4ca06e" alt="Municipality Locator" width="200"> | <img src="https://github.com/user-attachments/assets/672d6245-c8b9-4a81-9bb7-129c09e8a26f" alt="Public Toilet Locator" width="200"> |
+
+</div>
+
+### Food Management
+<div align="center">
+
+| **Add Food Post** | **Request Food** | **View Posts** |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/558541e3-bc48-4cac-95a4-03aae8dd6aa5" alt="Splash Screen" width="200"> | <img src="https://github.com/user-attachments/assets/80fa0d94-09c5-4e6f-a54c-5e9736300eae" alt="Registration Page" width="200"> | <img src="https://github.com/user-attachments/assets/55a74618-bd07-4b90-bae4-71442212818e" alt="Login Screen" width="200"> |
+| <img src="https://github.com/user-attachments/assets/77b059d6-87ad-43b2-9f9f-49620af753f9" alt="Add Food Post" width="200"> | <img src="https://github.com/user-attachments/assets/5a06095a-c982-4964-b61d-a90566915eff" alt="Request Food" width="200"> | <img src="https://github.com/user-attachments/assets/ef680669-da24-4b0e-97af-c4373157769d" alt="View Food Posts" width="200"> |
 
-### Main Features
+</div>
 
-| **Village Tour** | **Food Management** | **Waste Management** |
+### Waste Management
+<div align="center">
+
+| **Waste Management Menu** | **Waste Bin Locations** | **Waste Dumping Complaints** |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/6b4e9faf-61cd-4685-bace-bf82b031818d" alt="Village Tour" width="200"> | <img src="https://github.com/user-attachments/assets/1b0c07a1-4ef6-47cc-9c89-eead8020c317" alt="Food Management" width="200"> | <img src="https://github.com/user-attachments/assets/8bc49228-46e1-435e-9ce2-5d40a78ad5e5" alt="Waste Management Map" width="200"> |
-| <img src="https://github.com/user-attachments/assets/9723e4b5-7727-4522-8b8a-7e74a3f6ad4a" alt="Add a New Post" width="200"> | <img src="https://github.com/user-attachments/assets/5c2af452-3452-4cc4-9f2a-c16d9ca3ed81" alt="Food Request Page" width="200"> | <img src="https://github.com/user-attachments/assets/a16e32f3-2a58-46e6-9806-6cb72b937772" alt="Add Bin Location" width="200"> |
+| <img src="https://github.com/user-attachments/assets/2d55fbcb-3ba7-4abe-a601-1c0e9fc7a908" alt="Waste Management Menu" width="200"> | <img src="https://github.com/user-attachments/assets/e0a097d4-62ec-46e3-9c43-0caf4c9f196f" alt="Waste Bin Locations" width="200"> | <img src="https://github.com/user-attachments/assets/60d7e7de-7c5f-41d6-964d-59a2fbf38a73" alt="Waste Dumping Complaints" width="200"> |
 
-### Complaint Management & Local Services
+</div>
 
-| **Complaint Management** | **Local Services** | **User Profile** |
+### Village Tour
+<div align="center">
+
+| **Add Place** | **View Places** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/6f53a899-fe63-4057-ac19-f8b7d787f9c3" alt="Add a New Place" width="200"> | <img src="https://github.com/user-attachments/assets/4c555ca4-26ce-4079-bb55-8f480fa80db1" alt="View Places" width="200"> |
+
+| **My Posts** | **Place Details** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/7b0046b7-5af8-4633-8162-36a31ed0f8c3" alt="My Posts" width="200"> | <img src="https://github.com/user-attachments/assets/63d3dbf0-0f57-4671-9629-acdbf944e661" alt="Place Details" width="200"> |
+
+</div>
+
+### Complaint Management
+<div align="center">
+
+| **View Complaints** | **Complaint Details** | **My Complaints** |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8af3d9ce-581e-4d96-b783-039ddb7a80dc" alt="Complaint List" width="200"> | <img src="https://github.com/user-attachments/assets/9aca7c85-6d9f-4ac5-a81f-8da0ec271afb" alt="Local Services Map" width="200"> | <img src="https://github.com/user-attachments/assets/582f9355-8d0d-4d37-ace5-a6719be57b6b" alt="Profile Settings" width="200"> |
-| <img src="https://github.com/user-attachments/assets/5e36d61e-e23a-4462-811c-2c949c864b4c" alt="Create Complaint" width="200"> | <img src="https://github.com/user-attachments/assets/59cdc311-ae77-4876-9f24-12b2c3b9a775" alt="Service Locations List" width="200"> | <img src="https://github.com/user-attachments/assets/397d2998-8210-40b1-aa7c-add10e6dd75b" alt="My Posts" width="200"> |
+| <img src="https://github.com/user-attachments/assets/b566c244-3b1c-49e4-aae7-05dca7bedd7e" alt="View Complaints" width="200"> | <img src="https://github.com/user-attachments/assets/5367dbb6-b8cd-4bff-b240-b7a1d893c073" alt="Add Complaints" width="200"> | <img src="https://github.com/user-attachments/assets/21facb8d-ab68-43e6-8de6-2afd3bfbdfb8" alt="View My Complaints" width="200"> |
+
+</div>
 
 ---
 
