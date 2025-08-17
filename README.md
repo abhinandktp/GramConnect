@@ -91,7 +91,8 @@ flutter run
 
 ## 6. Demo Link
 
-This section will be updated later with a link to the deployed software and a demo video.
+You can download the application's **APK file** and watch a **demo video** with instructions on how to use it by clicking the link below.
+[Download App & Watch Demo]([your-link-to-apk-and-video-here](https://drive.google.com/drive/folders/1tlIoAX8R8JwPOpUkLLQ4k5BEj_X0b_QW))
 
 ---
 
