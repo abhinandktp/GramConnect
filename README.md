@@ -104,5 +104,3 @@ This section will be updated later with a link to the deployed software and a de
 ---
 
 ## 8. License
-
-This project is licensed under the [MIT License](LICENSE).
