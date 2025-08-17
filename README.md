@@ -55,6 +55,7 @@ Gram - Connect is a comprehensive platform designed to empower local communities
 ## 5. Usage Screenshots
 
 ### Initial Pages & User Management
+This section shows the key screens for user onboarding, including splash, login, registration, and the app's main **home screen**. The home screen provides quick access to **Local Services** and a "Quick Actions" menu with options for **Food Management**, **Waste Management**, **Complaints**, and the **Village Tour**.
 <div align="center">
 
 | **Splash Screen** | **Login** |
@@ -68,6 +69,7 @@ Gram - Connect is a comprehensive platform designed to empower local communities
 </div>
 
 ### Local Services
+These screens highlight how users can find essential public services like post offices, village offices, municipalities, and public toilets on an interactive map.
 <div align="center">
 
 | **Post Office** | **Village Office** |
@@ -81,6 +83,7 @@ Gram - Connect is a comprehensive platform designed to empower local communities
 </div>
 
 ### Food Management
+This feature allows users to post surplus food to reduce waste and enables others to request it, with an option to view all available food posts.
 <div align="center">
 
 | **Add Food Post** | **Request Food** | **View Posts** |
@@ -90,6 +93,7 @@ Gram - Connect is a comprehensive platform designed to empower local communities
 </div>
 
 ### Waste Management
+These pages demonstrate how the app helps manage waste by providing an interactive map for locating waste bins and a platform for reporting illegal waste dumping.
 <div align="center">
 
 | **Waste Management Menu** | **Waste Bin Locations** | **Waste Dumping Complaints** |
@@ -99,6 +103,7 @@ Gram - Connect is a comprehensive platform designed to empower local communities
 </div>
 
 ### Village Tour
+This section illustrates the community-driven aspect of the app, where users can add and view posts about local places, manage their own contributions, and see detailed information.
 <div align="center">
 
 | **Add Place** | **View Places** |
@@ -112,9 +117,10 @@ Gram - Connect is a comprehensive platform designed to empower local communities
 </div>
 
 ### Complaint Management
+Users can report public issues such as **street lights not working** or **illegal dumping** with photo proof. The platform allows other users to **vote** (like or dislike) on these complaints, helping to show support and prioritize their relevance.
 <div align="center">
 
-| **View Complaints** | **Complaint Details** | **My Complaints** |
+| **View Complaints** | **Add Complaints** | **My Complaints** |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/b566c244-3b1c-49e4-aae7-05dca7bedd7e" alt="View Complaints" width="200"> | <img src="https://github.com/user-attachments/assets/5367dbb6-b8cd-4bff-b240-b7a1d893c073" alt="Add Complaints" width="200"> | <img src="https://github.com/user-attachments/assets/21facb8d-ab68-43e6-8de6-2afd3bfbdfb8" alt="View My Complaints" width="200"> |
 
